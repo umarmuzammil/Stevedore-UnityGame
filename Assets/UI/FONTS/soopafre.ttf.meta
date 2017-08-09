@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: c9d215c4f97ab9744b9bc3b57c9cefd2
+timeCreated: 1494494975
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Soopafresh
+  fontNames:
+  - Soopafresh
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
